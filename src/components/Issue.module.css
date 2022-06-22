@@ -1,0 +1,41 @@
+.issue {
+    padding: 1em;
+    border-bottom: 1px solid lightgrey;
+    
+  }
+.issue:hover{
+  background-color: black;
+}
+.issue:first-child:hover{
+  border-radius: 8px;
+}
+  
+  .issue:last-child {
+    border-bottom: none;
+  }
+  
+  .issue h4 {
+    margin: 0 0 0.4em;
+  }
+  
+  .issue h4 a {
+    text-decoration: none;
+    color: rgb(190, 198, 209);
+  }
+  
+  .issue h4 a:hover {
+    color: rgb(69, 136, 236);
+
+  }
+  
+  .issueMeta {
+    font-size: 0.8em;
+    color: rgb(121, 129, 141);
+
+  }
+  
+  .issueMeta a {
+    color: rgb(121, 129, 141);
+
+  }
+  

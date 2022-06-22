@@ -1,0 +1,11 @@
+.issueList {
+    max-width: 1200px;
+    width: 95%;
+    margin: 30px auto;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+  }
+  body{
+    background-color: rgb(18, 21, 26);
+  }
+ 
